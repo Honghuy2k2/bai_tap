@@ -1,0 +1,5 @@
+
+
+Biết đc class là gì ,khai báo và sử dung class cơ bản
+ sử dụng method,constructor, biết cơ bản về static trong class ,tính kế thừa,ghi đè,tính đa hình
+tính trừu tượng.
